@@ -1,0 +1,26 @@
+
+
+img{
+
+    height: 130px;  
+    width: 130px;
+    position:relative;
+    top: 0px;
+    right: 0px;
+  
+}
+
+#chat  {
+
+    height: 140px;  
+    width: 140px;
+    position:fixed;
+    top: 81%;
+    right: 5%;
+  
+}
+
+
+
+
+
